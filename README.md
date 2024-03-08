@@ -6,10 +6,6 @@ The game features infinite space, neural network AI, multiple scenarios, single-
 
 Check out the alpha build 13 gameplay on YouTube: [https://www.youtube.com/watch?v=Kd-aEshWiNg](https://youtu.be/uxRjQ9BHlek)
 
-**Welcome Screen**
-
-![image](https://github.com/NTDLS/StrikeforceInfinite/assets/11428567/c57c3611-9f39-4b21-a1ec-60910d563280)
-
 **Ship Class Selection**
 
 ![image](https://github.com/NTDLS/StrikeforceInfinite/assets/11428567/de754036-2e2a-48ff-9ef9-a4f8e7364d98)
